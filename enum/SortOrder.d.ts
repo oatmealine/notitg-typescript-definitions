@@ -1,0 +1,21 @@
+declare enum SortOrder {
+	Preferred = 0,
+	Group = 1,
+	Title = 2,
+	BPM = 3,
+	Popularity = 4,
+	'Top Grades' = 5,
+	Artist = 6,
+	Genre = 7,
+	'Song Length' = 8,
+	'Easy Meter' = 9,
+	'Normal Meter' = 10,
+	'Hard Meter' = 11,
+	'Challenge Meter' = 12,
+	'Mode Menu' = 13,
+	'All Courses' = 14,
+	'Nonstop Courses' = 15,
+	'Oni Courses' = 16,
+	'Endless Courses' = 17,
+	Roulette = 18
+}
