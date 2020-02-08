@@ -1,4 +1,6 @@
-# NotITG and OpenITG Typescript Definitions
+# NotITG and OpenITG TypeScript Definitions
+
+TypeScript definitions for creating OpenITG/NotITG modfiles or themes.
 
 Note: this is currently useless without a build script set up to transpile TypeScript code to Lua. I'll change the readme once I publish that.
 
