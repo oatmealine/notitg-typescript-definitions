@@ -1,3 +1,5 @@
+import './ScreenGameplay';
+
 declare const SCREENMAN: ScreenManager;
 
 declare interface ScreenManager {

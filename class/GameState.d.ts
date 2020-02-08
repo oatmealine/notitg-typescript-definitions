@@ -1,3 +1,13 @@
+import '../enum/CoinMode';
+import '../enum/Diffculty';
+import '../enum/InputMode';
+import '../enum/Premium';
+import '../enum/SortOrder';
+import './Game';
+import './Steps';
+import { Trail } from './Trail';
+import './Course';
+
 declare const GAMESTATE: GameState;
 
 declare interface GameState {

@@ -1,3 +1,5 @@
+import '../enum/RadarCategory';
+
 declare interface RadarValues {
 	/**
 	* ITG

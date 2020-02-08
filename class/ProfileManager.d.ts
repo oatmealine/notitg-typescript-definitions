@@ -1,3 +1,5 @@
+import { Profile} from './Profile';
+
 declare const PROFILEMAN: ProfileManager;
 
 declare interface ProfileManager {

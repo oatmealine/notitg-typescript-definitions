@@ -1,3 +1,5 @@
+import './Actor';
+
 declare interface ActorProxy extends Actor {
 	/**
 	* NotITG

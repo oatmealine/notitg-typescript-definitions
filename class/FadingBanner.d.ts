@@ -1,3 +1,5 @@
+import './ActorFrame';
+
 declare interface FadingBanner extends ActorFrame {
 	/**
 	* ITG

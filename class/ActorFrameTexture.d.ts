@@ -1,3 +1,5 @@
+import './ActorFrame';
+
 declare interface ActorFrameTexture extends ActorFrame {
 	/**
 	* NotITG

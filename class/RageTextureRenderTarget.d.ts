@@ -1,3 +1,5 @@
+import './RageTexture';
+
 declare interface RageTextureRenderTarget extends RageTexture {
 	/**
 	* NotITG

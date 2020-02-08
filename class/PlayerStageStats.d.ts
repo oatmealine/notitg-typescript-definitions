@@ -1,3 +1,7 @@
+import '../enum/Grade';
+import '../enum/TapNoteScore';
+import '../enum/HoldNoteScore';
+
 declare interface PlayerStageStats {
 	/**
 	* ITG

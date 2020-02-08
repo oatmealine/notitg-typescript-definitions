@@ -1,3 +1,5 @@
+import '../enum/ElementCategory';
+
 declare const THEME: ThemeManager;
 
 declare interface ThemeManager {

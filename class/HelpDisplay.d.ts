@@ -1,3 +1,5 @@
+import './BitmapText';
+
 declare interface HelpDisplay extends BitmapText {
 	/**
 	* ITG

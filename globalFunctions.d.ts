@@ -1,3 +1,5 @@
+import './enum/CourseDifficulty';
+
 /**
 * ITG
 * Returns true if every active player failed the current stage.

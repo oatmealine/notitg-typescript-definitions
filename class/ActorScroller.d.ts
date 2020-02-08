@@ -1,3 +1,5 @@
+import './Actor';
+
 declare interface ActorScroller extends Actor {
 	/**
 	* ITG

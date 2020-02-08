@@ -1,3 +1,5 @@
+import '../enum/MemoryCardState';
+
 declare const MEMCARDMAN: MemoryCardManager
 
 declare interface MemoryCardManager {

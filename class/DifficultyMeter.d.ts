@@ -1,3 +1,8 @@
+import './ActorFrame';
+import './Steps';
+import { Trail } from './Trail';
+import '../enum/Diffculty';
+
 declare interface DifficultyMeter extends ActorFrame {
 	/**
 	* ITG

@@ -1,3 +1,6 @@
+import './Actor';
+import './RageSound';
+
 declare interface ActorSound extends Actor {
 	/**
 	* NotITG

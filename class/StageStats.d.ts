@@ -1,3 +1,5 @@
+import { PlayerStageStats } from './PlayerStageStats';
+
 interface StageStats {
 	/**
 	* ITG

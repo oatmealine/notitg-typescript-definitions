@@ -1,3 +1,5 @@
+import { StageStats } from './StageStats';
+
 declare const STATSMAN: StatsManager;
 
 declare interface StatsManager {

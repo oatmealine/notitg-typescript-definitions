@@ -1,3 +1,7 @@
+import '../enum/StepsType';
+import '../enum/GoalType';
+import './Song';
+
 declare interface Profile {
 	/**
 	* ITG
@@ -11,7 +15,7 @@ declare interface Profile {
 	* @param {StepsType} stepsType The steps' type. See ITGStepsType.
 	* @param {Difficulty} difficulty The difficulty. See ITGDifficulty.
 	*/
-	GetCoursesActual(stepsType: StepsType, difficulty: number): number;
+	GetCoursesActual(stepsType: StepsType, difficulty: Difficulty): number;
 
 	/**
 	* ITG

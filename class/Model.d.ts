@@ -1,3 +1,6 @@
+import './Actor';
+import '../enum/PolygonMode';
+
 declare interface Model extends Actor {
 	/**
 	* NotITG
