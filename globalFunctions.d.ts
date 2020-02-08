@@ -1,3 +1,5 @@
+import './enum/Diffculty';
+import './enum/Grade';
 import './enum/CourseDifficulty';
 
 /**

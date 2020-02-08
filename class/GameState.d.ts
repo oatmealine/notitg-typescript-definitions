@@ -4,7 +4,7 @@ import '../enum/InputMode';
 import '../enum/Premium';
 import '../enum/SortOrder';
 import './Game';
-import './Steps';
+import { Steps } from './Steps';
 import { Trail } from './Trail';
 import './Course';
 

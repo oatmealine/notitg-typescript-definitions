@@ -1,3 +1,5 @@
+import { RadarValues } from './RadarValues';
+
 declare interface Steps {
 	/**
 	* ITG

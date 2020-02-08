@@ -1,5 +1,5 @@
 import './ActorFrame';
-import './Steps';
+import { Steps } from './Steps';
 import { Trail } from './Trail';
 import '../enum/Diffculty';
 
